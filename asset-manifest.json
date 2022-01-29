@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/TexAnalyzer/static/js/main.f70569e1.chunk.js",
+    "main.js.map": "/TexAnalyzer/static/js/main.f70569e1.chunk.js.map",
+    "runtime-main.js": "/TexAnalyzer/static/js/runtime-main.47a2944c.js",
+    "runtime-main.js.map": "/TexAnalyzer/static/js/runtime-main.47a2944c.js.map",
+    "static/js/2.59520116.chunk.js": "/TexAnalyzer/static/js/2.59520116.chunk.js",
+    "static/js/2.59520116.chunk.js.map": "/TexAnalyzer/static/js/2.59520116.chunk.js.map",
+    "index.html": "/TexAnalyzer/index.html",
+    "static/js/2.59520116.chunk.js.LICENSE.txt": "/TexAnalyzer/static/js/2.59520116.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47a2944c.js",
+    "static/js/2.59520116.chunk.js",
+    "static/js/main.f70569e1.chunk.js"
+  ]
+}

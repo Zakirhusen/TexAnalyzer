@@ -74,19 +74,19 @@ const TextForm = (props) => {
             }}
           ></textarea>
         </div>
-        <button className="btn btn-danger mx-0 my-0" onClick={toUpper}>
+        <button className="btn btn-dark mx-0 my-0" onClick={toUpper}>
           ToUppercase
         </button>
-        <button className="btn btn-danger mx-2 my-1" onClick={toLpper}>
+        <button className="btn btn-dark mx-2 my-1" onClick={toLpper}>
           ToLowercase
         </button>
-        <button className="btn btn-danger mx-2 my-1" onClick={handleCopy}>
+        <button className="btn btn-dark mx-2 my-1" onClick={handleCopy}>
           Copy
         </button>
-        <button className="btn btn-danger mx-2 my-1" onClick={RemoveExtraSpces}>
+        <button className="btn btn-dark mx-2 my-1" onClick={RemoveExtraSpces}>
           Remove Extra Spaces
         </button>
-        <button className="btn btn-danger mx-2 my-1" onClick={Clear}>
+        <button className="btn btn-dark mx-2 my-1" onClick={Clear}>
             Clear
         </button>
 

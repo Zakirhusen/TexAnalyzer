@@ -1,6 +1,6 @@
 {
-  "name": "firstssreact",
-  "homepage": "https://Zakirhusen.github.io/WebsiteHost",
+  "name": "textcounter",
+  "homepage": "https://Zakirhusen.github.io/TexAnalyzer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -9,6 +9,6 @@ RUN npm run build
 # Step 2: Serve using Nginx
 FROM nginx:stable-alpine
 COPY --from=build /app/build /usr/share/nginx/html
-COPY nginx.conf /etc/nginx/nginx.conf
+COPY default.conf /etc/nginx/default.conf
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
